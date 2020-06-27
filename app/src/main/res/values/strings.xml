@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhiteThemedApp</string>
+    <string name="user_profile">User Profile</string>
+    <string name="name">Chelsea Islan</string>
+    <string name="paragraph">Hello, Thank you for completing your data by answering Lola.</string>
+    <string name="age">27</string>
+    <string name="gender">Female</string>
+    <string name="martial_status">Married</string>
+    <string name="blood_type">0</string>
+</resources>
